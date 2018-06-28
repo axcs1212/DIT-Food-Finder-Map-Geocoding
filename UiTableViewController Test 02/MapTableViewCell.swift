@@ -1,10 +1,3 @@
-//
-//  MapTableViewCell.swift
-//  UiTableViewController Test 02
-//
-//  Created by amadeus on 2018. 6. 2..
-//  Copyright © 2018년 lse. All rights reserved.
-//
 
 import UIKit
 import MapKit
